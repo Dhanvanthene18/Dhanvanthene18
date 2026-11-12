@@ -60,28 +60,74 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏥 XCare
-Conversational AI platform for health risk triage and decision support.
 
-- Symptom-based interaction
-- AI-powered conversational interface
-- Backend API development
+<h2>🚀 Featured Projects</h2>
 
-**Tech:** React | FastAPI | Python | Docker
+<table>
+<tr>
+<td width="50%" align="center">
 
-### 💼 NexHire
-AI-powered recruitment and hiring project.
+<h3>🏥 XCare</h3>
 
-**Tech:** Add your actual project technologies here.
+<p>Production-Grade Conversational AI Platform for Health Risk Triage and Decision Support.</p>
 
-### 🎓 Student Management System
-Application for managing student information and records.
+<b>Features</b>
 
-**Tech:** Python | Flask | MySQL
+<p>
+✔ AI-Powered Symptom Analysis<br>
+✔ Health Risk Assessment<br>
+✔ Conversational AI Interface<br>
+✔ REST API Integration
+</p>
 
----
+<b>Tech</b>
+
+<p>
+<code>React</code>
+<code>FastAPI</code>
+<code>Python</code>
+<code>Docker</code>
+</p>
+
+<a href="YOUR_XCARE_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW%20REPO-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎓 Student Management System</h3>
+
+<p>Web-based application for managing student information and academic records.</p>
+
+<b>Features</b>
+
+<p>
+✔ Student Registration<br>
+✔ Student Record Management<br>
+✔ CRUD Operations<br>
+✔ MySQL Database Integration
+</p>
+
+<b>Tech</b>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+<code>Bootstrap</code>
+</p>
+
+<a href="YOUR_STUDENT_MANAGEMENT_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW%20REPO-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Statistics
 
