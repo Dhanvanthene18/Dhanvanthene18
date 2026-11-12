@@ -154,19 +154,25 @@
 
 ---
 
-## 🌐 Connect With Me
+
+<hr>
+
+
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/dhanvanthene18">
-    LinkedIn
-  </a> |
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://dhanvanthene18.github.io/My-Portfolio/">
-    Portfolio
-  </a> |
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:dhanasaravanan150603@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<hr>
 
 ---
 
