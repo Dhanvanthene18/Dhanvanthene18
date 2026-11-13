@@ -1,21 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22c55e&height=180&section=header&text=Hi%20I'm%20Dhanvanthene&fontSize=35&fontColor=ffffff" />
+  <img
+    src="https://raw.githubusercontent.com/Dhanvanthene18/Dhanvanthene18/main/github-banner.png"
+    width="100%"
+    alt="Dhanvanthene GitHub Banner"
+  />
 </p>
 
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Dhanvanthene</h1>
-
-<h3 align="center">
-  Software Engineer | Java Backend Developer | Full Stack Developer
-</h3>
-
-<p align="center">
-  Building scalable applications, REST APIs and AI-powered software solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanvanthene18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 
 ---
 
